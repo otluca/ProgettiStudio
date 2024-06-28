@@ -1,0 +1,14 @@
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\bin\Debug\netstandard2.0\AdaptiveXamarin.deps.json
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\bin\Debug\netstandard2.0\AdaptiveXamarin.dll
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\bin\Debug\netstandard2.0\ref\AdaptiveXamarin.dll
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\bin\Debug\netstandard2.0\AdaptiveXamarin.pdb
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\AdaptiveXamarin.csprojAssemblyReference.cache
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\AdaptiveXamarin.AssemblyInfoInputs.cache
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\AdaptiveXamarin.AssemblyInfo.cs
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\AdaptiveXamarin.csproj.CoreCompileInputs.cache
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\AdaptiveXamarin.dll
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\ref\AdaptiveXamarin.dll
+D:\Progetti\Repos\AdaptiveXamarin\AdaptiveXamarin\AdaptiveXamarin\obj\Debug\netstandard2.0\AdaptiveXamarin.pdb

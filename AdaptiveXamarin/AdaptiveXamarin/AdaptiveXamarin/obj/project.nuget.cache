@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ycpug26GLuxWR+cqSdu0D36Q/ukNzHOz+BPEJEr9L1LjB+e7HD7bE7GqArTikR/1ouJEGWZesOGZEoG7hwXakw==",
+  "success": true,
+  "projectFilePath": "D:\\Progetti\\Repos\\AdaptiveXamarin\\AdaptiveXamarin\\AdaptiveXamarin\\AdaptiveXamarin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\luca\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\luca\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\luca\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

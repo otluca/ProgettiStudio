@@ -1,0 +1,10 @@
+D:\Progetti\Repos\StudiVari\bin\Release\StudiVari.exe.config
+D:\Progetti\Repos\StudiVari\bin\Release\StudiVari.exe
+D:\Progetti\Repos\StudiVari\bin\Release\StudiVari.pdb
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.csprojAssemblyReference.cache
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.Form1.resources
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.Properties.Resources.resources
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.csproj.GenerateResource.cache
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.csproj.CoreCompileInputs.cache
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.exe
+D:\Progetti\Repos\StudiVari\obj\Release\StudiVari.pdb
